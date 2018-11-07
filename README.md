@@ -15,5 +15,5 @@ ansible-galaxy install elastic.elasticsearch <br/>
 
 ### 3 - Run Playbook install
  cd elasticsearch-installation <br/>
- ansible-playbook playbook-install.yml <br/>
- ansible-playbook playbook-init.yml <br/>
+ ansible-playbook -i hosts playbook-install.yml <br/>
+ ansible-playbook -i hosts playbook-init.yml <br/>
