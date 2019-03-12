@@ -1,7 +1,7 @@
 # elasticsearch-instalattion
 Installation ElasticSearch 6.4.2 Cluster
 
-## Instrucciones
+## Instructions
 
 ### 1 - Installation of Ansible
  yum install epel-release <br/>
